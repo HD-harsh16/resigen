@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/resigen/static/css/main.719083d2.css",
+    "main.js": "/resigen/static/js/main.9f8b30cd.js",
+    "static/media/logo.png": "/resigen/static/media/logo.23d311db593a0dd2b297.png",
+    "index.html": "/resigen/index.html",
+    "main.719083d2.css.map": "/resigen/static/css/main.719083d2.css.map",
+    "main.9f8b30cd.js.map": "/resigen/static/js/main.9f8b30cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.719083d2.css",
+    "static/js/main.9f8b30cd.js"
+  ]
+}
